@@ -33,6 +33,7 @@ body {
 img.img-noticia {
   width: 96%;
   padding: 2%;
+  max-width: 600px;
 }
 /* #imagem {
   width: 90%;
