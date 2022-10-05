@@ -30,6 +30,15 @@ body {
   padding-left: 10px;
   padding-right: 10px;
 }
+img.img-noticia {
+  width: 96%;
+  padding: 2%;
+}
+/* #imagem {
+  width: 90%;
+  overflow: hidden;
+} */
+
 /* Conteudo Secundário */
 #conteudo-secundario {
   width: 33%; /* 320px */
